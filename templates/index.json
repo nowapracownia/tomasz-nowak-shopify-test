@@ -213,6 +213,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "blank"
   ]
 }
